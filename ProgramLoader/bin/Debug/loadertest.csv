@@ -1,0 +1,2 @@
+名称,程序名,参数,执行时间,关闭时间,状态,输出,心跳,运行时间,周末不执行,定时执行,定时关闭,监测心跳,监测关闭,摆放窗体,重置窗体,窗体位置,窗体尺寸,路径
+LoaderTest,LoadTester.exe,test,07:00,2,,,,,是,否,否,是,是,否,否,0|0,400|200,C:\Users\miuser\OneDrive\project\ProgramLoader\LoadTester\LoadTester\bin\Debug
