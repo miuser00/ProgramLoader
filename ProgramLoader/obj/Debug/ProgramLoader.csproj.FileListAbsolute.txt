@@ -54,3 +54,6 @@ C:\Users\miuser\Source\Repos\ProgramLoader\ProgramLoader\obj\Debug\ProgramLoader
 C:\Users\miuser\Source\Repos\ProgramLoader\ProgramLoader\obj\Debug\TDXBind.GUIBind.resources
 C:\Users\miuser\Source\Repos\ProgramLoader\ProgramLoader\obj\Debug\ProgramLoader.Properties.Resources.resources
 C:\Users\miuser\Source\Repos\ProgramLoader\ProgramLoader\obj\Debug\ProgramLoader.csproj.GenerateResource.Cache
+C:\Users\miuser\Source\Repos\miuser00\ProgramLoader\ProgramLoader\bin\Debug\ProgramLoader.exe.config
+C:\Users\miuser\Source\Repos\miuser00\ProgramLoader\ProgramLoader\obj\Debug\ProgramLoader.exe
+C:\Users\miuser\Source\Repos\miuser00\ProgramLoader\ProgramLoader\obj\Debug\ProgramLoader.pdb
